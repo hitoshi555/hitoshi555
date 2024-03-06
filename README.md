@@ -5,6 +5,8 @@
 
 **プログラミングと技術開発への深い理解を得るための勉強を日々行っていることが私の強みです。**
 
+## Works
+
 <!--
 **hitoshi555/hitoshi555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
