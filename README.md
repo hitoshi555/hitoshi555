@@ -12,25 +12,36 @@
 4.https://newpoint.info/   
 
 ## Skills
-プログラミング言語   
-・JavaScript   
-・TypeScript   
-・Python   
-・PHP   
-・Ruby   
-・HTML   
-・CSS   
-フレームワーク・ライブラリ   
-・React   
-・Gatuby   
-・Express   
-・Next.JS   
-・Flask   
-・Laravel   
-・Ruby on Rails   
-インフラ技術   
-・AWS   
-・Firebase   
+### プログラミング言語
+
+| 言語       |
+|------------|
+| JavaScript |
+| TypeScript |
+| Python     |
+| PHP        |
+| Ruby       |
+| HTML       |
+| CSS        |
+
+### フレームワーク・ライブラリ
+
+| 名称          |
+|---------------|
+| React         |
+| Gatuby        |
+| Express       |
+| Next.JS       |
+| Flask         |
+| Laravel       |
+| Ruby on Rails |
+
+### インフラ技術
+
+| 技術     |
+|----------|
+| AWS      |
+| Firebase |
 
 
 <!--
