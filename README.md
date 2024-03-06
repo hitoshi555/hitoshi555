@@ -11,6 +11,28 @@
 3.https://anjuishiyama.world/   
 4.https://newpoint.info/   
 
+## Skills
+プログラミング言語   
+・JavaScript   
+・TypeScript   
+・Python   
+・PHP   
+・Ruby   
+・HTML   
+・CSS   
+フレームワーク・ライブラリ   
+・React   
+・Gatuby   
+・Express   
+・Next.JS   
+・Flask   
+・Laravel   
+・Ruby on Rails   
+インフラ技術   
+・AWS   
+・Firebase   
+
+
 <!--
 **hitoshi555/hitoshi555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
