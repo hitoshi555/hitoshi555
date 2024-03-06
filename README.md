@@ -13,35 +13,13 @@
 
 ## Skills
 ### プログラミング言語
-
-| 言語       |
-|------------|
-| JavaScript |
-| TypeScript |
-| Python     |
-| PHP        |
-| Ruby       |
-| HTML       |
-| CSS        |
+JavaScript, TypeScript, Python, PHP, Ruby, HTML, CSS
 
 ### フレームワーク・ライブラリ
-
-| 名称          |
-|---------------|
-| React         |
-| Gatuby        |
-| Express       |
-| Next.JS       |
-| Flask         |
-| Laravel       |
-| Ruby on Rails |
+React, Gatuby, Express, Next.JS, Flask, Laravel, Ruby on Rails
 
 ### インフラ技術
-
-| 技術     |
-|----------|
-| AWS      |
-| Firebase |
+AWS, Firebase
 
 
 <!--
